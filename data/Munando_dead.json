@@ -13,5 +13,11 @@
       "percent": 40,
        "hz": "360"
      }
+        {
+        "user": "thepastel",
+      "link": "",
+      "percent": 100,
+       "hz": "300"
+        }
     ]
 }
